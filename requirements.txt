@@ -1,0 +1,13 @@
+
+numpy
+pandas
+matplotlib
+tensorflow
+keras
+scipy
+CIL
+opencv-python-headless
+imutils
+scikit-image
+shutil
+glob2
