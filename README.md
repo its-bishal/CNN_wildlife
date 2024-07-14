@@ -59,7 +59,7 @@ The dataset used for this project consists of images of four prominent animals f
 
 1. Clone the repository: 
    ```sh
-   git clone https://github.com/yourusername/wildlife-surveillance.git
+   git clone https://github.com/its-bishal/CNN_wildlife.git
    ```
 2. Install the required dependencies:
    ```sh
